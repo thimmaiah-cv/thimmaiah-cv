@@ -41,11 +41,9 @@ I am an enthusiastic and adaptable developer currently pursuing my **Master of C
 
 ### 📊 GitHub Stats:
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thimmaiah-cv&theme=dark&hide_border=true" alt="Thimmaiah's GitHub Streak" />
-</p>
+[![Thimmaiah's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thimmaiah-cv&theme=dracula)](https://github.com/thimmaiah-cv)
 
-![Thimmaiah's Stats](https://github-readme-stats.vercel.app/api?username=thimmaiah-cv&show_icons=true&theme=dark&hide_border=true)
+---
 
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=thimmaiah-cv&show_icons=true&theme=dark)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thimmaiah-cv&theme=2077)
