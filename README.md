@@ -40,13 +40,13 @@ I am an enthusiastic and adaptable developer currently pursuing my **Master of C
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thimmaiah-cv&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thimmaiah-cv&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thimmaiah-cv&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Thimmaiah's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thimmaiah-cv&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Thimmaiah's Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimmaiah-cv&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thimmaiah-cv&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="left">
