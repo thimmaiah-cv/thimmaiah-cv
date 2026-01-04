@@ -40,7 +40,7 @@ I am an enthusiastic and adaptable developer currently pursuing my **Master of C
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thimmaiah-cv&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=thimmaiah-cv&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
