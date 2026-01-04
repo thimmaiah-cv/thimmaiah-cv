@@ -53,16 +53,7 @@ I am an enthusiastic and adaptable developer currently pursuing my **Master of C
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thimmaiah-cv&theme=dracula&hide_border=true" alt="Activity Graph" />
 </p>
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats:
-
 [![Thimmaiah's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thimmaiah-cv&theme=dracula)](https://github.com/thimmaiah-cv)
-
----
-
-![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=thimmaiah-cv&show_icons=true&theme=dark)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thimmaiah-cv&theme=2077)
 
 ---
 
