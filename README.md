@@ -30,7 +30,7 @@ I am an enthusiastic and adaptable developer currently pursuing my **Master of C
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=thimmaiah-cv&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thimmaiah-cv&layout=compact&theme=dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thimmaiah-cv&theme=2077)
 
 ---
 
